@@ -27,7 +27,7 @@ App.Dev = function(){
 
             jQuery.ajax({
                 type : 'GET',
-                url : 'https://script.google.com/macros/s/AKfycbzfstO9mndNv_qNo33CombR0Cz4kOcOKVbK-uyE8EMiWR5SQobhkQKEOQWeAb7PmaEX/exec',
+                url : 'https://script.google.com/macros/s/AKfycbyvKklHSIQ-BNZGTFHt4kwa8aeHXu3fimpkODwHRygKffXMHQZAzdsJEOfpeqxW0B-n/exec',
                 dataType:'json',
                 crossDomain : true,
                 data : data,
@@ -67,7 +67,7 @@ App.Dev = function(){
 
             jQuery.ajax({
                 type : 'GET',
-                url : 'https://script.google.com/macros/s/AKfycbzfstO9mndNv_qNo33CombR0Cz4kOcOKVbK-uyE8EMiWR5SQobhkQKEOQWeAb7PmaEX/exec',
+                url : 'https://script.google.com/macros/s/AKfycbyvKklHSIQ-BNZGTFHt4kwa8aeHXu3fimpkODwHRygKffXMHQZAzdsJEOfpeqxW0B-n/exec',
                 dataType:'json',
                 crossDomain : true,
                 data : data,
@@ -104,7 +104,7 @@ App.Dev = function(){
 
             jQuery.ajax({
                 type : 'GET',
-                url : 'https://script.google.com/macros/s/AKfycbzfstO9mndNv_qNo33CombR0Cz4kOcOKVbK-uyE8EMiWR5SQobhkQKEOQWeAb7PmaEX/exec',
+                url : 'https://script.google.com/macros/s/AKfycbyvKklHSIQ-BNZGTFHt4kwa8aeHXu3fimpkODwHRygKffXMHQZAzdsJEOfpeqxW0B-n/exec',
                 dataType:'json',
                 crossDomain : true,
                 data : data,
